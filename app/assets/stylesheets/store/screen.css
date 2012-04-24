@@ -302,7 +302,7 @@ p img.right {
 }
 a {
   text-decoration: underline;
-  color: #2e6ab1;
+  color: #FFA500;
 }
 
 blockquote {
@@ -500,10 +500,10 @@ body.two-col #content {
 }
 #header {
   position: relative;
-  color: #2e6ab1;
+  color: #FFA500;
   clear: both;
 }
-#header a { color: #2e6ab1; }
+#header a { color: #FFA500; }
 #header a:hover { color: #eeeeee; }
 #footer {
   padding-top: 2em;
@@ -637,7 +637,7 @@ ul#nav-bar li.cart-indicator a.full { background-image: url(/assets/cart-full_x3
 .pagination a.page {
   text-decoration: none;
   border: 1px solid #9aafe5;
-  color: #2e6ab1;
+  color: #;
 }
 .pagination a.page:hover {
   border: 1px solid #2b66a5;
