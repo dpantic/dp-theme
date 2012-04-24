@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name        = 'spree_blue_theme'
   s.version     = '0.2.0'
   s.summary     = 'A Spree Commerce Theme'
-  s.homepage    = 'https://github.com/dpantic/spree_blue_theme'
+  s.homepage    = 'https://github.com/dpantic/dp-theme'
 
   s.author        = 'Brian D. Quinn'
   s.email         = 'brian@railsdog.com'
