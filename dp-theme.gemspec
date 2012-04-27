@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_blue_theme'
+  s.name        = 'dp_theme'
   s.version     = '0.2.0'
   s.summary     = 'A Spree Commerce Theme'
   s.homepage    = 'https://github.com/dpantic/dp-theme.git'
